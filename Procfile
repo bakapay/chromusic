@@ -1,3 +1,2 @@
 worker: node server.js
-da2: npm i ytdl-core
-da1: npm i opusscript
+da2: npm install ffmpeg --save
