@@ -1,2 +1,2 @@
 worker: node server.js
-da2: npm i -g windows-build-tools
+da2: sudo apt-get install libav-tools -y
