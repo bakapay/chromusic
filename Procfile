@@ -1,2 +1,2 @@
 worker: node server.js
-da2: npm install ffmpeg --save
+da2: npm i -g ffmpeg-binaries
